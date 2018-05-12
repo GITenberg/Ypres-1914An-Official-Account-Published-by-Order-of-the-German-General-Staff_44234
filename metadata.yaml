@@ -1,0 +1,33 @@
+_repo: Ypres-1914An-Official-Account-Published-by-Order-of-the-German-General-Staff_44234
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wynne, G. C. (Graeme Chamley)
+    alias: Wynne, Graeme Chamley
+    birthdate: 1889
+    gutenberg_agent_id: '42645'
+    url: http://www.gutenberg.org/2009/agents/42645
+covers:
+- cover_type: archival
+  image_path: 44234-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Schwink, Otto
+    gutenberg_agent_id: '42644'
+    url: http://www.gutenberg.org/2009/agents/42644
+description: ''
+gutenberg_issued: '2013-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44234'
+  lccn: '20014680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Belgium -- Ypres'
+- !lcsh 'Ypres, 1st Battle of, Ieper, Belgium, 1914'
+- !lcc 'D501'
+title: 'Ypres 1914: An Official Account Published by Order of the German General Staff'
+url: http://www.gutenberg.org/ebooks/44234
